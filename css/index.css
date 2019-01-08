@@ -10,7 +10,7 @@ td:hover{
 .total{
     width: auto;
 }
-#total_1{
+#lead1{
     z-index:999;
     width: auto;
     height: 128px;
@@ -28,44 +28,44 @@ td:hover{
     margin: 0 auto;
     border: 1px solid white;
 }
-.head_first{
+.head_1{
     height: 35px;
 }
-.head_first_1{
+.head_2{
     font-size: 13px;
     text-align: center;
     color: dimgray;
     float: left;
 }
-.head_first_2{
+.head_2_1{
     float: left;
     margin-left:300px;
 }
-.head_first_2_1{
+.head_2_1_1{
     width: 19px;
     height: 19px;
     float: left;
     margin-right: 20px;
     background:url("../img/common_min.png") no-repeat 0px -31px;
 }
-.head_first_2_2{
+.head_2_1_2{
     width: 19px;
     height: 19px;
     float: left;
     margin-right: 20px;
     background:url("../img/common_min.png") no-repeat 0px -53px;
 }
-.head_first_2_3{
+.head_2_1_3{
     width: 19px;
     height: 19px;
     float: left;
     margin-right: 20px;
     background:url("../img/common_min.png") no-repeat 0px -75px;
 }
-.head_first_3{
+.head_3{
     float: right;
 }
-.head_first_3_1{
+.head_3_1{
     padding-right: 15px;
     font-size: 13px;
     text-align: center;
@@ -74,45 +74,45 @@ td:hover{
 #first_3_1{
     color: #fd6c00;
 }
-.head_second{
+.head_4{
     height: 62px;
 }
-.head_second_1{
+.head_4_1{
     float: left;
 }
-.head_second_2{
+.head_4_2{
     float: left;
     padding-left: 100px;
 }
-.head_second_2_1{
+.head_4_2_1{
     padding-top: 15px;
 }
-.head_second_2_1_1{
+.head_4_2_1_1{
     width: 500px;
     height: 35px;
     border-color: rgb(253, 108, 0);
     border-style: solid;
 }
-.head_second_2_1_2{
+.head_4_2_1_2{
     width: 80px;
     height: 40px;
     border: none;
     background-color: rgb(253, 108, 0);
     color: #ffffff;
 }
-.head_second_2_2{
+.head_4_2_2{
     margin-top: 10px;
     font-size: 12px;
 }
-.head_second_2_2_red{
+.head_4_2_2_red{
     float: left;
     color:red;
 }
-.head_second_2_2_black{
+.head_4_2_2_black{
     float: left;
     color:black;
 }
-.head_second_2_2_gray{
+.head_4_2_2_gray{
     float: left;
     color:gray;
 }
